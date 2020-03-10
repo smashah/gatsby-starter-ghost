@@ -1,11 +1,11 @@
 {
   "development": {
-    "apiUrl": "https://blog.sudo.house/",
+    "apiUrl": "https://blog.sudo.house",
     "contentApiKey": "1f56819eb230c24d3073d0262f",
     "version": "v2"
   },
   "production": {
-    "apiUrl": "https://blog.sudo.house/",
+    "apiUrl": "https://blog.sudo.house",
     "contentApiKey": "1f56819eb230c24d3073d0262f",
     "version": "v2"
   }
