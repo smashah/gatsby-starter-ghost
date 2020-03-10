@@ -1,10 +1,12 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://blog.sudo.house/",
+    "contentApiKey": "1f56819eb230c24d3073d0262f",
+    "version": "v2"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://blog.sudo.house/",
+    "contentApiKey": "1f56819eb230c24d3073d0262f",
+    "version": "v2"
   }
 }
